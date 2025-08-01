@@ -12,5 +12,6 @@ backend developer, interested in startups and system design. currently working o
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
