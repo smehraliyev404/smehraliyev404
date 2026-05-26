@@ -1,5 +1,5 @@
 ## me:
-backend developer, interested in startups and system design. currently working on clothifAI project.
+swe | currently working on clothifAI
 
 ## github stats:
 [![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app?user=smehraliyev404&theme=hacker)](https://git.io/streak-stats)
