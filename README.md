@@ -3,8 +3,6 @@ swe | currently working on clothifAI
 
 ## github stats:
 [![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app?user=smehraliyev404&theme=hacker)](https://git.io/streak-stats)
-[![Said's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=smehraliyev404&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats#chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smehraliyev404&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook)
 
 ## tech stack:
 ![Java](https://img.shields.io/badge/java-FFA500?style=for-the-badge)
