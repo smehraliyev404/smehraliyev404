@@ -1,7 +1,7 @@
-## me:
+## me
 swe | currently working on clothifAI
 
-## tech stack:
+## tech stack
 ![Java](https://img.shields.io/badge/java-FFA500?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black)
