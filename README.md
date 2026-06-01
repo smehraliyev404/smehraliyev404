@@ -1,9 +1,6 @@
 ## me:
 swe | currently working on clothifAI
 
-## github stats:
-[![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app?user=smehraliyev404&theme=hacker)](https://git.io/streak-stats)
-
 ## tech stack:
 ![Java](https://img.shields.io/badge/java-FFA500?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black)
